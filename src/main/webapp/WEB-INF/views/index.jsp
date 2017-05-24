@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,20 +23,20 @@
     </ol>
 	<div class="carousel-inner">
       <div class="item active">
- 	  <img src="Image/phone1.jpg" style="width:100%;" height="250px">
+ 	  <img src="./resources/image/phone1.jpg" style="width:100%;" height="250px">
 	  </div>
 
 	<div class="item">
- 		 <img src="Image/phone2.jpg" style="width:100%;" height="250px">
+ 		 <img src="./resources/image/phone2.jpg" style="width:100%;" height="250px">
 	</div>
 	<div class="item">
- 		 <img src="Image/phone3.jpg" style="width:100%;" height="250px">
+ 		 <img src="./resources/image/phone3.jpg" style="width:100%;" height="250px">
 	</div>
 	<div class="item">
- 		 <img src="Image/phone4.jpg" style="width:100%" height="250px">
+ 		 <img src="./resources/image/phone4.jpg" style="width:100%" height="250px">
 	</div>
 	<div class="item">
- 		 <img src="Image/phone5.jpg" style="width:100%;" height="250px">
+ 		 <img src="./resources/image/phone5.jpg" style="width:100%;" height="250px">
 	</div>
 	<a class="left carousel-control" href="#myCarousel" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left"></span>
@@ -49,17 +50,17 @@
 </div>
 <div>
 <hr>
-	<a href=""><img height="150px" width="253px" src="Image/phone1.jpg"></img></a>
-	<a href=""><img height="150px" width="253px" src="Image/phone2.jpg"></img></a>
-	<a href=""><img height="150px" width="253px" src="Image/phone3.jpg"></img></a>
-	<a href=""><img height="150px" width="253px" src="Image/phone4.jpg"></img></a>
-	<a href=""><img height="150px" width="253px" src="Image/phone7.jpg"></img></a>
+	<a href=""><img height="150px" width="253px" src="./resources/image/phone1.jpg"></img></a>
+	<a href=""><img height="150px" width="253px" src="./resources/image/phone2.jpg"></img></a>
+	<a href=""><img height="150px" width="253px" src="./resources/image/phone3.jpg"></img></a>
+	<a href=""><img height="150px" width="253px" src="./resources/image/phone4.jpg"></img></a>
+	<a href=""><img height="150px" width="253px" src="./resources/image/phone7.jpg"></img></a>
 <hr>
-	<a href=""><img height="150px" width="253px" src="Image/phone3.jpg"></img></a>
-	<a href=""><img height="150px" width="253px" src="Image/phone6.jpg"></img></a>
-	<a href=""><img height="150px" width="253px" src="Image/phone2.jpg"></img></a>
-	<a href=""><img height="150px" width="253px" src="Image/phone5.jpg"></img></a>
-	<a href=""><img height="150px" width="253px" src="Image/phone4.jpg"></img></a>
+	<a href=""><img height="150px" width="253px" src="./resources/image/phone3.jpg"></img></a>
+	<a href=""><img height="150px" width="253px" src="./resources/image/phone6.jpg"></img></a>
+	<a href=""><img height="150px" width="253px" src="./resources/image/phone2.jpg"></img></a>
+	<a href=""><img height="150px" width="253px" src="./resources/image/phone5.jpg"></img></a>
+	<a href=""><img height="150px" width="253px" src="./resources/image/phone4.jpg"></img></a>
 	<hr>
 </div>
 

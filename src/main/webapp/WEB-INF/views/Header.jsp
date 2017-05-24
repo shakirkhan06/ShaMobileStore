@@ -30,7 +30,7 @@
 <body>
 <header>
 <div class="w3-container w3-red">
- 	<a href="index.jsp"><img style="height:120px" src="Image/LogoNew.png"></img></a>
+ 	<a href="index"><img style="height:120px" src="./resources/image/LogoNew.png"></img></a>
  	
 		         
         			<div class="search">
@@ -39,18 +39,18 @@
 					</div>
 					
      
- 	<a class="divLink" style="color:white;" href="index.jsp">Home ||</a> 
+ 	<a class="divLink" style="color:white;" href="index">Home ||</a> 
  	<a class="divLink" style="color:white;" href="aboutus.html">About ||</a>
- 	<a class="divLink"  style="color:white;" href="productDetails.jsp">Product Details ||</a>
-    <a class="divLink" style="color:white;" href="registration.jsp">SignUp</a>
+ 	<a class="divLink"  style="color:white;" href="productDetails">Product Details ||</a>
+    <a class="divLink" style="color:white;" href="registration">SignUp</a>
  	
 
  	
  	
  	<span id="sign" class="glyphicon glyphicon-user" style="color:white;"></span>
- 	<a class="b" href="login.jsp" style="color:white">Login</a>
+ 	<a class="b" href="login" style="color:white">Login</a>
 	<span id="sign" class="glyphicon glyphicon-user" style="color:white;"></span>  
-	<a class="b" href="registration.jsp" style="color:white">SignUp</a>
+	<a class="b" href="registration" style="color:white">SignUp</a>
 </div>
 </header>
 </body>

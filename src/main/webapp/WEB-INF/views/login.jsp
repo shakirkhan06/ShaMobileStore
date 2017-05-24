@@ -9,7 +9,7 @@
 <body class="w3-container w3-gray">
   <jsp:include page="Header.jsp" />  
 <div id="loginform">
-<form action="">
+<form action="login">
  
 
   <div class="containers">

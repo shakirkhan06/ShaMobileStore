@@ -12,7 +12,7 @@
 <tr>
 <td>
 <div class="w3-container">
-<img height="400px" src="Image/MotoGPlay.jpg"></img>
+<img height="400px" src="./resources/image/MotoGPlay.jpg"></img>
 
 </td>
 <td>

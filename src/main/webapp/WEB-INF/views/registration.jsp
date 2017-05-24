@@ -49,7 +49,7 @@
 
     <div class="clearfix">
       <button type="button" class="loginbtn" >Cancel</button>
-      <button type="submit" class="loginbtn" >Sign Up</button>
+      <button type="submit" class="loginbtn" >SignUp</button>
     </div>
   </div>
 </form>
