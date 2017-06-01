@@ -10,7 +10,7 @@
 	<title>Sha Mobile Store</title>
 
 
-<link rel="stylesheet" type="text/css" href="MyStyle.css"/>
+<link rel="stylesheet" type="text/css" href="src/main/webapp/WEB-INF/views/MyStyle.css"/>
 
 
 <!-- carousel Slider AutoPlay-->
@@ -30,27 +30,28 @@
 <body>
 <header>
 <div class="w3-container w3-red">
- 	<a href="index"><img style="height:120px" src="./resources/image/LogoNew.png"></img></a>
- 	
+ 	<a href="./"><img style="height:120px" src="./resources/image/LogoNew.png"></img></a>
+ 	<a href="login">Product</a>
 		         
         			<div class="search">
 					<input type="text" class="form-control input-sm" maxlength="64" placeholder="Search" />
  					<button type="submit" class="btn btn-primary btn-sm">Search</button>
 					</div>
 					
-     
- 	<a class="divLink" style="color:white;" href="index">Home ||</a> 
- 	<a class="divLink" style="color:white;" href="aboutus.html">About ||</a>
- 	<a class="divLink"  style="color:white;" href="productDetails">Product Details ||</a>
-    <a class="divLink" style="color:white;" href="registration">SignUp</a>
+    <!--  <select>
+ 	<option><a class="divLink" style="color:white;" href="./">Home</a></option> 
+ 	<option><a class="divLink" style="color:white;" href="list">About</a></option>
+ 	<option><a class="divLink"  style="color:white;" href="productDetails">Product Details</a></option>
+   <option> <a class="divLink" style="color:white;" href="signup">SignUp</a></option>
+ 	</select> -->
  	
-
- 	
- 	
- 	<span id="sign" class="glyphicon glyphicon-user" style="color:white;"></span>
+ 
+ 	<a class="b" href="Adding" style="color:white">AddingSupplier</a>
+ 	<a class="b" href="Adding" style="color:white">AddingCategory</a>
+	<span id="sign" class="glyphicon glyphicon-user" style="color:white;"></span>
  	<a class="b" href="login" style="color:white">Login</a>
 	<span id="sign" class="glyphicon glyphicon-user" style="color:white;"></span>  
-	<a class="b" href="registration" style="color:white">SignUp</a>
+	<a class="b" href="signup" style="color:white">SignUp</a>
 </div>
 </header>
 </body>

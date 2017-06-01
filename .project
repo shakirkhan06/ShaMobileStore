@@ -3,6 +3,7 @@
 	<name>MobileStore</name>
 	<comment></comment>
 	<projects>
+		<project>mobilestorebackend</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
