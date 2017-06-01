@@ -1,7 +1,10 @@
 package com.niit.controllers;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
+<<<<<<< HEAD
 import org.springframework.web.bind.annotation.ResponseBody;
+=======
+>>>>>>> dcbed4951c66b48e6b3723edeb078d8c08557db4
 import org.springframework.web.servlet.ModelAndView;
 
 
@@ -33,6 +36,7 @@ public class IndexController {
 		 ModelAndView mv = new ModelAndView("Adding");
 		  return mv;
 	}*/
+<<<<<<< HEAD
 	@RequestMapping("/Adding")
 	@ResponseBody
 	public ModelAndView Adding() 
@@ -40,6 +44,9 @@ public class IndexController {
 		 ModelAndView mv = new ModelAndView("Adding");
 		  return mv;
 	}
+=======
+
+>>>>>>> dcbed4951c66b48e6b3723edeb078d8c08557db4
 	/*@RequestMapping("/AddingSupplier")
 	public ModelAndView AddingSupplier() 
 	{

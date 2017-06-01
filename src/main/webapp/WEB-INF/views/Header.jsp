@@ -48,6 +48,10 @@
  
  	<a class="b" href="Adding" style="color:white">AddingSupplier</a>
  	<a class="b" href="Adding" style="color:white">AddingCategory</a>
+<<<<<<< HEAD
+=======
+ 	<a class="b" href="categoryList" style="color:white">DisplayCategory</a>
+>>>>>>> dcbed4951c66b48e6b3723edeb078d8c08557db4
 	<span id="sign" class="glyphicon glyphicon-user" style="color:white;"></span>
  	<a class="b" href="login" style="color:white">Login</a>
 	<span id="sign" class="glyphicon glyphicon-user" style="color:white;"></span>  

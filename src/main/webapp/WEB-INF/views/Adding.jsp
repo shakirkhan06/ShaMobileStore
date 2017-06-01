@@ -21,6 +21,7 @@
 <br>
 <br>
 <!-- LoginPage coding started -->
+<<<<<<< HEAD
 <div class="container">
     <div class="row">
         <div class="col-md-offset-5 col-md-3">
@@ -67,6 +68,70 @@
         </form>
         </div>
     </div>
+=======
+            <form class="form-horizontal" action="actionCat" method="post">
+             <fieldset>
+
+<!-- Form Name -->
+<legend>Add Category</legend>
+                 <div class="form-group">
+  <label class="col-md-4 control-label" for="fn">Category Id</label>  
+  <div class="col-md-4">
+  <input id="cid" name="cid" type="text">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="ln">Category Name</label>  
+  <div class="col-md-4">
+  <input id="cname" name="cname" type="text">
+    
+  </div>
+</div>
+<div class="form-group">
+  <label class="col-md-4 control-label" for="submit"></label>
+  <div class="col-md-4">
+    <button id="submit" name="submit" value="addCat" class="btn btn-primary">Add</button>
+     <button id="submit" name="submit" value="cancelCat" class="btn btn-primary">Cancel</button>
+  </div>
+</div>
+</fieldset>
+ </form>
+    <form class="form-horizontal" action="actionSup" method="post">
+             <fieldset>
+
+<!-- Form Name -->
+<legend>Add Supplier</legend>
+                 <div class="form-group">
+  <label class="col-md-4 control-label" for="fn">Supplier Id</label>  
+  <div class="col-md-4">
+  <input name="sid" type="text" >
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="ln">Supplier Name</label>  
+  <div class="col-md-4">
+  <input name="sname" type="text" >
+    
+  </div>
+</div>
+<div class="form-group">
+  <label class="col-md-4 control-label" for="submit"></label>
+  <div class="col-md-4">
+    <button id="submit" name="submit" value="supAdd" class="btn btn-primary">Add</button>
+     <button id="submit" name="submit" value="supCancel" class="btn btn-primary">Cancel</button>
+  </div>
+</div>
+</fieldset>
+ </form>
+  </div>
+  </div>
+>>>>>>> dcbed4951c66b48e6b3723edeb078d8c08557db4
 
  <!-- Footer Content -->
  <jsp:include page="Footer.jsp" /> 

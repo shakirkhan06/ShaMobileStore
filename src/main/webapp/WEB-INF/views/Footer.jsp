@@ -24,10 +24,11 @@
 <body>
 <footer>
 <div class="w3-container w3-red">
-	<div><a style="color:white;" href="">AboutUs</a>
-		<a class="a" href="" ><i class="fa fa-facebook-square" style="font-size:28px;color:white"></i></i></a>
-		<a class="a" href="" ><i class="fa fa-google-plus-square" style="font-size:28px;color:white"></i></i></a>
-		<a class="a" href="" ><i class="fa fa-twitter-square" style="font-size:28px;color:white"></i></i></a>
+	<div>
+		<a style="color:white;" href="">AboutUs</a>
+		<a class="a" href="" ><i class="fa fa-facebook-square" style="font-size:28px;color:white"></i></a>
+		<a class="a" href="" ><i class="fa fa-google-plus-square" style="font-size:28px;color:white"></i></a>
+		<a class="a" href="" ><i class="fa fa-twitter-square" style="font-size:28px;color:white"></i></a>
 	</div>
 </div>
 </footer>
